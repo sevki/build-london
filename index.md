@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# London Build Meetup
 
-You can use the [editor on GitHub](https://github.com/sevki/build-london/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+On 1st and 2nd of October 2019, Cloudflare, Bloomberg and Google will be hosting a Build Meetup at the Cloudflare offices in London.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The event will be themed around all things build and test. We’ll have developers and enthusiasts of Bazel, BuildStream, BuildXL, Dune, Pants and others on site. A special area of interest are Cloud Build Systems (aka Remote Execution).
 
-### Markdown
+On day one a series of talks will be presented:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Build Systems a la carte - Andrey Mokhov (Jane Street)
+- Dune: the Build System for Ocaml - Jeremie Dimino (Jane Street)
+- Microsoft Remote Execution Internal Alpha Release - Erik Mavrinac (Microsoft)
+- Observing process lifetime and filesystem accesses reliably on macOS - Kristijan Simic (Microsoft)
+- One minute Presubmits - Eric Burnett (Google)
+- Platforms & Toolchains - Gregory Estren (Google)
+- Buildstream - Benjamin Schubert (Bloomberg) & Tristan Maat (Codethink)
+- Buildbox world - Jeremiah Bonney (Bloomberg) & Santiago Gil (Codethink)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sevki/build-london/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+On day two there will be plenty of time for collaboration, discussion and hacking. We'll also be holding a round of lightning talks.
