@@ -9,14 +9,36 @@ If you would like to tweet about the event, please use the hashtag `#buildmeetup
 
 ## Schedule
 
-- Build Systems a la carte - Andrey Mokhov (Jane Street)
-- Dune: the Build System for Ocaml - Jeremie Dimino (Jane Street)
-- Microsoft Remote Execution Internal Alpha Release - Erik Mavrinac (Microsoft)
-- Observing process lifetime and filesystem accesses reliably on macOS - Kristijan Simic (Microsoft)
-- One minute Presubmits - Eric Burnett (Google)
-- Platforms & Toolchains - Gregory Estren (Google)
-- Buildstream - Benjamin Schubert (Bloomberg) & Tristan Maat (Codethink)
-- Buildbox world - Jeremiah Bonney (Bloomberg) & Santiago Gil (Codethink)
+
+08:15 - Registration & Breakfast
+
+09:00 - Welcome & Announcements
+
+09:10 - Build Systems a la carte - Andrey Mokhov (Jane Street)
+
+10:00 - Dune: the Build System for Ocaml - Jeremie Dimino (Jane Street)
+
+10:45 - Break
+
+11:05 - Microsoft Remote Execution Internal Alpha Release - Erik Mavrinac (Microsoft)
+
+11:55 - Observing process lifetime and filesystem accesses reliably on macOS - Kristijan Simic (Microsoft)
+
+12:40 - Lunch
+
+14:00 - One minute Presubmits - Eric Burnett (Google)
+
+14:50 - Platforms & Toolchains - Gregory Estren (Google)
+
+15:35 - Break
+
+15:55 - Buildstream - Benjamin Schubert (Bloomberg) & Tristan Maat (Codethink)
+
+16:45 - Buildbox world - Jeremiah Bonney (Bloomberg) & Santiago Gil (Codethink)
+
+17:30 - Close
+
+17:40 - Netwoking Drinks
 
 On day two there will be plenty of time for collaboration, discussion and hacking. We'll also be holding a round of lightning talks.
 
