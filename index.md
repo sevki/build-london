@@ -44,6 +44,7 @@ On day two there will be plenty of time for collaboration, discussion and hackin
 
 ## WiFi Info
 SSID: `Cloudflare-Guest`
+
 Pass: `#savetheinternet`
 
 ## Contact Us
