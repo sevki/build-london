@@ -38,7 +38,7 @@ If you would like to tweet about the event, please use the hashtag `#buildmeetup
 
 17:30 - Close
 
-17:40 - Netwoking Drinks
+17:40 - Networking Drinks
 
 On day two there will be plenty of time for collaboration, discussion and hacking. We'll also be holding a round of lightning talks.
 
