@@ -42,6 +42,11 @@ If you would like to tweet about the event, please use the hashtag `#buildmeetup
 
 On day two there will be plenty of time for collaboration, discussion and hacking. We'll also be holding a round of lightning talks.
 
+## WiFi Info
+SSID: `Cloudflare-Guest`
+
+Pass: `#savetheinternet`
+
 ## Contact Us
 
 Any questions, issues, queries, complaints and compliments can be directed to [build-event-london@googlegroups.com](mailto:build-event-london@googlegroups.com)..
