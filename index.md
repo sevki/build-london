@@ -10,7 +10,7 @@ If you would like to tweet about the event, please use the hashtag [#buildmeetup
 ## Schedule
 
 
-08:15 - Registration & Breakfast
+08:20 - Registration & Breakfast
 
 09:00 - Welcome & Announcements
 
