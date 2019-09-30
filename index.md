@@ -5,12 +5,12 @@ On 1st and 2nd of October 2019, Cloudflare, Bloomberg and Google will be hosting
 The event will be themed around all things build and test. We’ll have developers and enthusiasts of Bazel, BuildStream, BuildXL, Dune, Pants and others on site. A special area of interest are Cloud Build Systems (aka Remote Execution).
 
 ## Social Media
-If you would like to tweet about the event, please use the hashtag `#buildmeetuplondon` – we would love to see your photos of the event!
+If you would like to tweet about the event, please use the hashtag [#buildmeetuplondon](https://twitter.com/hashtag/buildmeetuplondon) – we would love to see your photos of the event!
 
 ## Schedule
 
 
-08:15 - Registration & Breakfast
+08:20 - Registration & Breakfast
 
 09:00 - Welcome & Announcements
 
