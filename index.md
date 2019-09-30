@@ -49,7 +49,7 @@ Pass: `#savetheinternet`
 
 ## Contact Us
 
-Any questions, issues, queries, complaints and compliments can be directed to [build-event-london@googlegroups.com](mailto:build-event-london@googlegroups.com)..
+Any questions, issues, queries, complaints and compliments can be directed to [build-event-london@googlegroups.com](mailto:build-event-london@googlegroups.com).
 
 ## Contributor Covenant Code of Conduct
 
