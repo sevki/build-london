@@ -1,14 +1,13 @@
 # London Build Meetup
 
-On 1st and 2nd of October 2019, Cloudflare, Bloomberg and Google will be hosting a [Build Meetup](https://www.eventbrite.com/e/london-build-meetup-tickets-70824519043) at the Cloudflare offices in London.
+On 1st and 2nd of October 2019, Cloudflare, Bloomberg and Google hosted a [Build Meetup](https://www.eventbrite.com/e/london-build-meetup-tickets-70824519043) at the Cloudflare offices in London.
 
-The event will be themed around all things build and test. We’ll have developers and enthusiasts of Bazel, BuildStream, BuildXL, Dune, Pants and others on site. A special area of interest are Cloud Build Systems (aka Remote Execution).
+The event was be themed around all things build and test. Developers and enthusiasts of Bazel, BuildStream, BuildXL, Dune, Pants and others were on site. A special area of interest are Cloud Build Systems (aka Remote Execution). It was fun! Thank you to all those that attended.
 
 ## Social Media
 If you would like to tweet about the event, please use the hashtag [#buildmeetuplondon](https://twitter.com/hashtag/buildmeetuplondon) – we would love to see your photos of the event!
 
 ## Schedule
-
 
 08:20 - Registration & Breakfast
 
@@ -42,10 +41,17 @@ If you would like to tweet about the event, please use the hashtag [#buildmeetup
 
 On day two there will be plenty of time for collaboration, discussion and hacking. We'll also be holding a round of lightning talks.
 
-## WiFi Info
-SSID: `Cloudflare-Guest`
+## Lightning Talks
 
-Pass: `#savetheinternet`
+Package Manager Integration with Bazel - Andreas Herrmann
+
+Apt Lockfiles - William Manley
+
+Testing Bazel's Remote Execution API - Laurence Urhegyi, Chris Phang
+
+ostree - William Manley
+
+Remote Execution on Windows from Linux - Fredrik Medley
 
 ## Contact Us
 
