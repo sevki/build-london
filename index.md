@@ -45,11 +45,11 @@ On day two there will be plenty of time for collaboration, discussion and hackin
 
 Package Manager Integration with Bazel - Andreas Herrmann [Slides](https://docs.google.com/presentation/d/1eYDMwtF0C8IP-aNBK5RfPeqtom9yIRUbSDMfy7i0MWM/edit?usp=sharing)
 
-Apt Lockfiles - William Manley
+Apt Lockfiles - William Manley [Slides](slides/William%20Manley%20-%20apt%20lockfiles.pdf)
 
 Testing Bazel's Remote Execution API - Laurence Urhegyi, Chris Phang
 
-ostree - William Manley
+ostree - William Manley [Slides](slides/William%20Manley%20-%20ostree.pdf)
 
 Remote Execution on Windows from Linux - Fredrik Medley
 
