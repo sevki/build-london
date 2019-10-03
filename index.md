@@ -43,7 +43,7 @@ On day two there will be plenty of time for collaboration, discussion and hackin
 
 ## Lightning Talks
 
-Package Manager Integration with Bazel - Andreas Herrmann
+Package Manager Integration with Bazel - Andreas Herrmann [Slides](https://docs.google.com/presentation/d/1eYDMwtF0C8IP-aNBK5RfPeqtom9yIRUbSDMfy7i0MWM/edit?usp=sharing)
 
 Apt Lockfiles - William Manley
 
