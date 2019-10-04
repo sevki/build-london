@@ -25,7 +25,7 @@ If you would like to tweet about the event, please use the hashtag [#buildmeetup
 
 12:40 - Lunch
 
-14:00 - One minute Presubmits - Eric Burnett (Google)
+14:00 - One minute Presubmits - Eric Burnett (Google) [Slides](https://docs.google.com/presentation/d/14dxac2omYI5Feaoiw-u09qB1fQgJU7ASNJag7YMg3TI/edit?usp=sharing)
 
 14:50 - Platforms & Toolchains - Gregory Estren (Google)
 
