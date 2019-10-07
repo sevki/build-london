@@ -47,7 +47,7 @@ Package Manager Integration with Bazel - Andreas Herrmann [Slides](https://docs.
 
 Apt Lockfiles - William Manley [Slides](slides/William%20Manley%20-%20apt%20lockfiles.pdf)
 
-Testing Bazel's Remote Execution API - Laurence Urhegyi, Chris Phang
+Testing Bazel's Remote Execution API - Laurence Urhegyi [SLides](https://docs.google.com/presentation/d/1JyQLEmo9mEICxOGdfXkMVCxu0iwAPoNFc1QsWTJ9J6E/edit#slide=id.p)
 
 ostree - William Manley [Slides](slides/William%20Manley%20-%20ostree.pdf)
 
