@@ -33,7 +33,7 @@ If you would like to tweet about the event, please use the hashtag [#buildmeetup
 
 15:55 - Buildstream - Benjamin Schubert (Bloomberg) & Tristan Maat (Codethink)
 
-16:45 - Buildbox world - Jeremiah Bonney (Bloomberg) & Santiago Gil (Codethink)
+16:45 - Buildbox world - Jeremiah Bonney (Bloomberg) & Santiago Gil (Codethink) [Slides](https://docs.google.com/presentation/d/1tuqvro_Kpn1yLthqbsxImkcHaCKsGqsn2liuCwRsg7g/edit)
 
 17:30 - Close
 
