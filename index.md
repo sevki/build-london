@@ -15,7 +15,7 @@ If you would like to tweet about the event, please use the hashtag [#buildmeetup
 
 09:10 - Build Systems a la carte - Andrey Mokhov (Jane Street) [Slides](https://www.staff.ncl.ac.uk/andrey.mokhov/build-systems-slides.pdf)
 
-10:00 - Dune: the Build System for Ocaml - Jeremie Dimino (Jane Street)
+10:00 - Dune: the Build System for Ocaml - Jeremie Dimino (Jane Street) [Slides](slides/Dune%20-%20The%20OCaml%20build%20system.pdf)
 
 10:45 - Break
 
