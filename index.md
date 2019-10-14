@@ -51,7 +51,7 @@ Testing Bazel's Remote Execution API - Laurence Urhegyi [Slides](https://docs.go
 
 ostree - William Manley [Slides](slides/William%20Manley%20-%20ostree.pdf)
 
-Remote Execution on Windows from Linux - Fredrik Medley
+Remote Execution on Windows from Linux - Fredrik Medley (Veoneer) [Slides](slides/BazelRemoteWindowsLinux.pdf)
 
 ## Contact Us
 
