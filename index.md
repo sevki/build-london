@@ -21,7 +21,7 @@ If you would like to tweet about the event, please use the hashtag [#buildmeetup
 
 11:05 - Microsoft Remote Build Execution: Dev Speedup with Non-Hermetic Build Engines - Erik Mavrinac (Microsoft) [Slides](https://github.com/microsoft/AnyBuild/blob/master/docs/presentations/20191001_MicrosoftRemoteExecution_LondonBuildMeetup.pptx?raw=true) [Repo](https://github.com/Microsoft/AnyBuild)
 
-11:55 - Observing process lifetime and filesystem accesses reliably on macOS - Kristijan Simic (Microsoft)
+11:55 - Observing process lifetime and filesystem accesses reliably on macOS - Kristijan Simic (Microsoft) [Slides](slides/BuildXLmacOSSandboxing.key) [Repo](https://github.com/Microsoft/BuildXL)
 
 12:40 - Lunch
 
